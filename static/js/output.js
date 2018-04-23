@@ -16807,7 +16807,7 @@
             }), o.createElement(a.a, {
                 column: !1,
                 wrap: !0
-            }, d.map(function() {
+            }, d.map(function(t) {
                 return o.createElement(a.a, {
                     key: "",
                     marginRight: 15,
@@ -18642,4 +18642,4 @@
             return r.createElement("p", null, "Route works!")
         })
 }]);
-//# sourceMappingURL=main.3195f18a.js.map
+//# sourceMappingURL=main.fe42b392.js.map
